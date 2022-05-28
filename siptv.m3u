@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:0 tvg-name="Show TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="News",Show TV 
-https://www.youtube.com/watch?v=J6-RNNwh30g
+plugin://plugin.video.youtube/play/?video_id=J6-RNNwh30g
